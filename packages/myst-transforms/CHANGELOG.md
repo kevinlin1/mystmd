@@ -1,5 +1,15 @@
 # myst-transforms
 
+## 1.3.39
+
+### Patch Changes
+
+- ae61234: Expose admonition header test function
+- Updated dependencies [9cb280a4]
+  - myst-spec-ext@1.8.2
+  - myst-common@1.8.2
+  - myst-frontmatter@1.8.2
+
 ## 1.3.38
 
 ### Patch Changes
